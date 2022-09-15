@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Benzveen built the original app <a href="https://github.com/Benzveen/image_to_pdf">image_to_pdf</a> and is bieng distributed with modifications under AGPL-3.0 license with new name Image to PDF: JPG to PDF Maker app as a Free app. Asad Khilji built the Auto Silent - Prayer Times app as an Ad Supported app. This SERVICE is provided by Asad Khilji at no cost and is intended for use as is.
+Camsteffen built the original app <a href="https://github.com/camsteffen/polite">polite</a> and is bieng distributed with modifications under MPL-2.0 license with new name Auto Silent - Prayer Times as a Free app. Asad Khilji built the Auto Silent - Prayer Times app as an Ad Supported app. This SERVICE is provided by Asad Khilji at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
