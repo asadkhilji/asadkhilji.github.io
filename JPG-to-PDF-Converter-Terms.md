@@ -1,4 +1,4 @@
-**Terms & Conditions**  
+# Terms & Conditions
 
 These terms and conditions apply to the JPG to PDF Converter + app (hereby referred to as "Application") for mobile devices that was created by Muhammad Asad (hereby referred to as "Service Provider") as a Freemium service.
 
