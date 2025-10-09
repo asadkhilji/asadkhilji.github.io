@@ -11,7 +11,7 @@ a. In-App Purchase Options:
 
 $4.99 USD per month: This subscription provides premium access to our app for 1 week. The renewal price is the same.
 
-$25.99 USD yearly: This package provides premium access to our app for the 1 year. The renewal price is the same.
+$24.99 USD yearly: This package provides premium access to our app for the 1 year. The renewal price is the same.
 
 While premium users have access to unlimited usage with the Jewelry Identifier ™, fair usage policies may apply. To ensure a high-quality experience for all users, rate limits may be implemented if usage significantly exceeds typical patterns. These limits are designed to be generous and should not impact regular usage.
 
