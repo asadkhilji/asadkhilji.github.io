@@ -1,5 +1,5 @@
 # Terms of Service for Jewelry Identifier ™
-Last updated: October 1, 2025
+Last updated: October 13, 2025
 
 # 1. Acceptance of Terms
 By using the Jewelry Identifier ™ app, you agree to comply with and be bound by these Terms of Service.
@@ -9,9 +9,9 @@ To use the jewelry identification feature, users need to purchase a premium subs
 
 a. In-App Purchase Options:
 
-$4.99 USD per month: This subscription provides premium access to our app for 1 week. The renewal price is the same.
+$2.99 USD per month: This subscription provides premium access to our app for 1 week. The renewal price is the same.
 
-$24.99 USD yearly: This package provides premium access to our app for the 1 year. The renewal price is the same.
+$14.99 USD yearly: This package provides premium access to our app for the 1 year. The renewal price is the same.
 
 While premium users have access to unlimited usage with the Jewelry Identifier ™, fair usage policies may apply. To ensure a high-quality experience for all users, rate limits may be implemented if usage significantly exceeds typical patterns. These limits are designed to be generous and should not impact regular usage.
 
