@@ -9,7 +9,7 @@ To use the jewelry identification feature, users need to purchase a premium subs
 
 a. In-App Purchase Options:
 
-$2.99 USD per month: This subscription provides premium access to our app for 1 week. The renewal price is the same.
+$2.99 USD per week: This subscription provides premium access to our app for 1 week. The renewal price is the same.
 
 $14.99 USD yearly: This package provides premium access to our app for the 1 year. The renewal price is the same.
 
