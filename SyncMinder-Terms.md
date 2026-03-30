@@ -1,4 +1,4 @@
-**SyncMinder — Terms of Use**
+## SyncMinder — Terms of Use
 
 Last updated: Feb 4, 2026
 
