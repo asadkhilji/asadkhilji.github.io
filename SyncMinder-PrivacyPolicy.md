@@ -1,4 +1,4 @@
-**SyncMinder — Privacy Policy**
+## SyncMinder — Privacy Policy
 
 Last updated: Feb 4, 2026
 
